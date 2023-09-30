@@ -9,7 +9,7 @@ I've been studying Programming for past 3 years, recently moved towards being fu
 *   🌍  I'm based in Poland
 *   🖥️  See my portfolio at [Portfolio](http://simone-portfolio.vercel.app/)
 *   ✉️  You can contact me at [studzinskis46@gmail.com](mailto:studzinskis46@gmail.com)
-*   🚀  I'm currently working on [Whaza sass](http://https://whazza.vercel.app/)
+*   🚀  I'm currently working on [Whaza sass]([http://https://whazza.vercel.app/])
 *   🧠  I'm learning Nextjs
 *   🤝  I'm open to collaborating on Nextjs projects, startups### Skills 
 <p align="left">
@@ -32,6 +32,7 @@ I've been studying Programming for past 3 years, recently moved towards being fu
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p>
+                    ### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/Simone-shalom"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Simone-shalom&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
