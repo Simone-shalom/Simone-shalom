@@ -9,7 +9,7 @@ I've been studying Programming for past 3 years, recently moved towards being fu
 *   🌍  I'm based in Poland
 *   🖥️  See my portfolio at [Portfolio](http://simone-portfolio.vercel.app/)
 *   ✉️  You can contact me at [studzinskis46@gmail.com](mailto:studzinskis46@gmail.com)
-*   🚀  I'm currently working on [Whaza sass]([http://https://whazza.vercel.app/])
+*   🚀  I'm currently working on [Whaza sass](https://whazza.vercel.app/)
 *   🧠  I'm learning Nextjs
 *   🤝  I'm open to collaborating on Nextjs projects, startups### Skills 
 <p align="left">
