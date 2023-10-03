@@ -6,13 +6,12 @@ Fullstack/server-side developer
 
 I've been studying Programming for past 3 years, recently moved towards being fullstack engineer, Currently working in nextjs 13
 
-*   🌍  I'm based in Poland
-*   🖥️  See my portfolio at [Portfolio](https://bento.me/simone-sha)
-*   ✉️  You can contact me at [studzinskis46@gmail.com](mailto:studzinskis46@gmail.com)
-*   🚀  I'm currently working on [Whaza sass](https://whazza.vercel.app/)
-*   🧠  I'm learning Nextjs
-*   🤝  I'm open to collaborating on Nextjs projects, startups
-*
+*   🌍  I'm based in Poland
+*   🖥️  See my portfolio at <a href="https://bento.me/simone-sha" target="_blank">Portfolio</a>
+*   ✉️  You can contact me at <a href="mailto:studzinskis46@gmail.com" target="_blank">studzinskis46@gmail.com</a>
+*   🚀  I'm currently working on <a href="https://whazza.vercel.app/" target="_blank">Whaza sass</a>
+*   🧠  I'm learning Next.js
+*   🤝  I'm open to collaborating on Next.js projects, startups
 
 ### Skills 
   <p align="left">
