@@ -6,6 +6,7 @@ Fullstack/server-side developer
 
 I've been studying Programming for past 3 years, recently moved towards being fullstack engineer, Currently working in nextjs 13
 
+*   🖥️  Check my CV below 
 *   🌍  I'm based in Poland
 *   🖥️  See my portfolio at <a href="https://bento.me/simone-sha" target="_blank">Portfolio</a>
 *   ✉️  You can contact me at <a href="mailto:studzinskis46@gmail.com" target="_blank">studzinskis46@gmail.com</a>
