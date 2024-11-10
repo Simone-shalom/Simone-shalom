@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack/server-side developer
 -------------------------------
 
-I've been programming for over 3 years, building applications with a Node.js backend (using frameworks like NestJS and Express) and a React/Next.js frontend.
+I have over three years of experience in programming, building fullstack applications with a Node.js backend (using frameworks like NestJS and Express) and a React/Next.js on frontend.
 
 *   🖥️  Check my CV below 
 *   🌍  I'm based in Poland
